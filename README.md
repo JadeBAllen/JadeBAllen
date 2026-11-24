@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jade 👋
 
-<!--
-**JadeBAllen/JadeBAllen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building hands-on cloud projects in **AWS** and **Azure**, focused on secure, reliable infrastructure.
 
-Here are some ideas to get you started:
+## Projects
+- [AWS Cloud Projects](https://github.com/JadeBAllen/AWS_Projects): load balancing, Auto Scaling, IAM, encryption, monitoring
+- [Azure Cloud Projects](https://github.com/YOURGITHUBNAME/azure-cloud-projects): networking, Bicep, Key Vault, backup, migration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+AWS · Azure · Terraform · Bicep · PowerShell · GitHub Actions · Networking · IAM
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jade-allen-/)
